@@ -1,10 +1,10 @@
 # php-events-listeners
-An example for how to implement event-listeners functionality to your app based on the idea of Laravel's event-listeners.
+An example for how to implement event-listeners functionality to your app, based on the idea of Laravel's event-listeners.
 
 ## Requirements
 PHP 7
 
-## How it start
+## How to start
 Clone the repository and run `composer dumpautoload`
 
 ## How it works
