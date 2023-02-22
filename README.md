@@ -5,7 +5,7 @@ An example for how to implement event-listeners functionality to your app, based
 PHP 7
 
 ## How to start
-Clone the repository and run `composer dumpautoload`
+Clone the repository and run `composer install`
 
 ## How it works
 You can register your events and listeners on the private property $listen in `EventsService` class or in the `boot` method
